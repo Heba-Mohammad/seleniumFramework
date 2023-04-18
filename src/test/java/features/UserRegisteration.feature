@@ -9,11 +9,11 @@ Feature: User Registeration
  
  Examples:
   | firstname | lastname | email | password |
-  | ahmed | mohamed | ahmed46@test.com | 12345678 |
-  | heba | moh | test36@test.com | 123456789 |
+  | ahmed | mohamed | ahmed47@test.com | 12345678 |
+  | heba | moh | test37@test.com | 123456789 |
   
   Examples:
   | email | password |
-  |ahmed46@test.com | 12345678 |
-  | test36@test.com | 123456789 |
+  |ahmed47@test.com | 12345678 |
+  | test37@test.com | 123456789 |
 
