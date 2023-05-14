@@ -6,8 +6,7 @@
 			<class name="tests.ContactUstest" />
 			<class name="tests.UserRegisterationTest" />
 			<class name="tests.searchProductTest" />
-	 		<class name="tests.AddProductToShoppingCartTest" /> 
-	 		<class name="tests.AddProductToWhishListTest" />
+	 		<class name="tests.ChangeCurrencyTest" />
 		</classes>
 	</test>
 </suite> 
